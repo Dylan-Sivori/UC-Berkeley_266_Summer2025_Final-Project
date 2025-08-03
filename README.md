@@ -1,0 +1,5 @@
+- Final PDF of project report is Fairytale Reading Comprehension - 266 Final Report.pdf
+- All python code for this project can be found in the working_python_notebooks folder
+- acrhived_work includes work that was done for the project but not ultimately referenced or discussed in the final report
+- checkpoints includes our model checkpoints after fine-tuning
+- answer_outputs and results include the outputs of our model generation
